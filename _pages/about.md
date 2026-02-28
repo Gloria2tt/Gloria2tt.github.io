@@ -31,50 +31,42 @@ I am currently working at **WeChat AI Foundation Model Center, Tencent**, focusi
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/svbench.png' alt="SVBench" width="75%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/svbench.png' alt="SVBench" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SVBench: Evaluation of Video Generation Models on Social Reasoning](https://arxiv.org/abs/2512.21507)
 
 **Wenshuo Peng**, Gongxuan Wang, Tianmeng Yang, Chuanhao Li, Xiaojie Xu, Hui He, Kaipeng Zhang
 
-**CVPR 2026**
-
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2026</div><img src='images/ijcv.png' alt="HarmoniDPO" width="75%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2026</div><img src='images/ijcv.png' alt="HarmoniDPO" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [HarmoniDPO: Video-guided Audio Generation via Preference-Optimized Diffusion](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=1RlWdF0AAAAJ&citation_for_view=1RlWdF0AAAAJ:Y0pCki6q_DkC)
 
 **Wenshuo Peng**, Kaipeng Zhang
 
-**International Journal of Computer Vision (IJCV)**, 2026
-
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/aaai.png' alt="DAT" width="75%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/aaai.png' alt="DAT" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Data Adaptive Traceback for Vision-Language Foundation Models in Image Classification](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=1RlWdF0AAAAJ&citation_for_view=1RlWdF0AAAAJ:u-x6o8ySG0sC)
 
 **Wenshuo Peng**, Kaipeng Zhang, Yue Yang, Hao Zhang, Yu Qiao
 
-**Proceedings of the AAAI Conference on Artificial Intelligence**, 2024
-
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2024</div><img src='images/t3m.png' alt="T3M" width="75%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Findings of NAACL 2024</div><img src='images/t3m.png' alt="T3M" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [T3M: Text Guided 3D Human Motion Synthesis from Speech](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=1RlWdF0AAAAJ&citation_for_view=1RlWdF0AAAAJ:d1gkVwhDpl0C)
 
 **Wenshuo Peng**, Kaipeng Zhang, SAI QIAN Zhang
-
-**Findings of the Association for Computational Linguistics: NAACL 2024**
 
 </div>
 </div>
