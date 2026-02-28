@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Wenshuo Peng (彭文硕)"
+  name             : "Wenshuo Peng"
   avatar           : "images/me.jpg"
   bio              : "Tsinghua University"
   location         : "Beijing, China"
