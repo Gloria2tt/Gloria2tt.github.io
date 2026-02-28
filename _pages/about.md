@@ -69,7 +69,7 @@ I am currently working at **WeChat AI Foundation Model Center, Tencent**, focusi
 
 [T3M: Text Guided 3D Human Motion Synthesis from Speech](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=1RlWdF0AAAAJ&citation_for_view=1RlWdF0AAAAJ:d1gkVwhDpl0C)
 
-**Wenshuo Peng**, Kaipeng Zhang, Shu-Quan Zhang
+**Wenshuo Peng**, Kaipeng Zhang, SAI QIAN Zhang
 
 **Findings of the Association for Computational Linguistics: NAACL 2024**
 
