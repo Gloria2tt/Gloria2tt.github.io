@@ -33,7 +33,7 @@ I am currently working at **WeChat AI Foundation Model Center, Tencent**, focusi
 
 [SVBench: Evaluation of Video Generation Models on Social Reasoning](https://arxiv.org/abs/2512.21507)
 
-**Wenshuo Peng**, Guangyao Wang, Tianshu Yang, Chunhao Li, Xiangtai Xu, Haohan He, Kaipeng Zhang
+**Wenshuo Peng**, Gongxuan Wang, Tianmeng Yang, Chuanhao Li, Xiaojie Xu, Hui He, Kaipeng Zhang
 
 **CVPR 2026**
 
@@ -57,7 +57,7 @@ I am currently working at **WeChat AI Foundation Model Center, Tencent**, focusi
 
 [Data Adaptive Traceback for Vision-Language Foundation Models in Image Classification](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=1RlWdF0AAAAJ&citation_for_view=1RlWdF0AAAAJ:u-x6o8ySG0sC)
 
-**Wenshuo Peng**, Kaipeng Zhang, Yang Yang, Hao Zhang, Yu Qiao
+**Wenshuo Peng**, Kaipeng Zhang, Yue Yang, Hao Zhang, Yu Qiao
 
 **Proceedings of the AAAI Conference on Artificial Intelligence**, 2024
 
