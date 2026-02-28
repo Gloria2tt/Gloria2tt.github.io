@@ -28,19 +28,19 @@ I obtained my Master's degree from [Tsinghua University](https://www.tsinghua.ed
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/svbench.png' alt="SVBench" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR</div><img src='images/svbench.png' alt="SVBench" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SVBench: Evaluation of Video Generation Models on Social Reasoning](https://arxiv.org/abs/2512.21507)
 
 **Wenshuo Peng**, Guangyao Wang, Tianshu Yang, Chunhao Li, Xiangtai Xu, Haohan He, Kaipeng Zhang
 
-**CVPR 2026**
+**CVPR**
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2026</div><img src='images/harmonidpo.png' alt="HarmoniDPO" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV</div><img src='images/harmonidpo.png' alt="HarmoniDPO" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [HarmoniDPO: Video-guided Audio Generation via Preference-Optimized Diffusion](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=1RlWdF0AAAAJ&citation_for_view=1RlWdF0AAAAJ:Y0pCki6q_DkC)
@@ -52,35 +52,35 @@ I obtained my Master's degree from [Tsinghua University](https://www.tsinghua.ed
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/dat.png' alt="DAT" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI</div><img src='images/dat.png' alt="DAT" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Data Adaptive Traceback for Vision-Language Foundation Models in Image Classification](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=1RlWdF0AAAAJ&citation_for_view=1RlWdF0AAAAJ:u-x6o8ySG0sC)
 
 **Wenshuo Peng**, Kaipeng Zhang, Yang Yang, Hao Zhang, Yu Qiao
 
-**Proceedings of the AAAI Conference on Artificial Intelligence**, 38(5), 4506-4514, 2024
+**Proceedings of the AAAI Conference on Artificial Intelligence**
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2024</div><img src='images/t3m.png' alt="T3M" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL</div><img src='images/t3m.png' alt="T3M" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [T3M: Text Guided 3D Human Motion Synthesis from Speech](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=1RlWdF0AAAAJ&citation_for_view=1RlWdF0AAAAJ:d1gkVwhDpl0C)
 
 **Wenshuo Peng**, Kaipeng Zhang, Shu-Quan Zhang
 
-**Findings of the Association for Computational Linguistics: NAACL 2024**, 1168-1177
+**Findings of the Association for Computational Linguistics: NAACL**
 
 </div>
 </div>
 
-- [Yume: An Interactive World Generation Model](https://arxiv.org/abs/2507.17744), Xiangyu Mao, Shaofeng Lin, Zhenyu Li, Chunhao Li, **Wenshuo Peng**, Tianyu He, Jiangmiao Pang, Mingyu Chi, Yu Qiao, Kaipeng Zhang, *arXiv 2025*
+- [Yume: An Interactive World Generation Model](https://arxiv.org/abs/2507.17744), Xiangyu Mao, Shaofeng Lin, Zhenyu Li, Chunhao Li, **Wenshuo Peng**, Tianyu He, Jiangmiao Pang, Mingyu Chi, Yu Qiao, Kaipeng Zhang, *arXiv*
 
-- [ERNIE 4.5 Technical Report](https://yiyan.baidu.com/blog/publication/ERNIE_Technical_Report.pdf), Baidu ERNIE Team, *2025*
+- [ERNIE 4.5 Technical Report](https://yiyan.baidu.com/blog/publication/ERNIE_Technical_Report.pdf), Baidu ERNIE Team
 
-- [Multi-relational Pedestrian Trajectory Prediction in Complex Scenes](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=1RlWdF0AAAAJ&citation_for_view=1RlWdF0AAAAJ:9yKSN-GCB0IC), **Wenshuo Peng**, Zhengxia Cui, Yuxin Duan, Xiao Tao, **IEEE VTC 2022**
+- [Multi-relational Pedestrian Trajectory Prediction in Complex Scenes](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=1RlWdF0AAAAJ&citation_for_view=1RlWdF0AAAAJ:9yKSN-GCB0IC), **Wenshuo Peng**, Zhengxia Cui, Yuxin Duan, Xiao Tao, **IEEE VTC**
 
 # 📖 Educations
 - *2021.09 - 2024.06*, M.S., Tsinghua University, Beijing, China. 
