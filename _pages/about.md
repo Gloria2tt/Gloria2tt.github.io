@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently working at **WeChat AI Foundation Model Center, Tencent**, focusing on the development and research of **WeLM**, with emphasis on **Reinforcement Learning for LLMs** and the **integration of RL with model architecture**. Prior to this, I worked at **Baidu** on LLM post-training for [ERNIE / Wenxin Yiyan (文心一言)](https://yiyan.baidu.com/). Before that, I graduated from the Department of Electronic Engineering, [Tsinghua University](https://www.tsinghua.edu.cn/). During my graduate studies, I primarily worked on communication-related research. I later transitioned to AI, with a focus on vision-language foundation models and multimodal learning. 
+I am currently working at **WeChat AI Foundation Model Center, Tencent**, focusing on the development and research of **WeLM**, with emphasis on **Reinforcement Learning for LLMs** and the **integration of RL with model architecture**. Prior to this, I worked at **Baidu** on LLM post-training for [ERNIE / Wenxin Yiyan (文心一言)](https://yiyan.baidu.com/). Before that, I graduated from the Department of Electronic Engineering, [Tsinghua University](https://www.tsinghua.edu.cn/). During my graduate studies, I primarily worked on communication-related research. I later transitioned to machine learning, with a focus on vision-language foundation models and multimodal learning. 
 
 
 # 🔥 News
