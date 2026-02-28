@@ -20,7 +20,9 @@ redirect_from:
 I obtained my Master's degree from [Tsinghua University](https://www.tsinghua.edu.cn/), Beijing, China. I am currently working at **WeChat AI, Tencent**. Prior to this, I worked at **Baidu** on LLM post-training for [ERNIE / Wenxin Yiyan (文心一言)](https://yiyan.baidu.com/). My research interests lie in **Multimodal Learning** and **Large Language Models (LLMs)**
 
 
-
+# 🔥 News
+- *2026.02*: &nbsp;🎉 One paper on video generation evaluation (SVBench) accepted by **CVPR 2026**.
+- *2026.01*: &nbsp;🎉 One paper on video-guided audio generation (HarmoniDPO) accepted by **IJCV**.
 
 
 
@@ -45,7 +47,7 @@ I obtained my Master's degree from [Tsinghua University](https://www.tsinghua.ed
 
 **Wenshuo Peng**, Kaipeng Zhang
 
-**International Journal of Computer Vision (IJCV)**, 2026
+**International Journal of Computer Vision (IJCV)**
 
 </div>
 </div>
