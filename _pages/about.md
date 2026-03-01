@@ -82,7 +82,7 @@ Shitian Zhao, Shaoheng Lin, Ming Li, Haoquan Zhang, **Wenshuo Peng**, Kaipeng Zh
 </div>
 </div>
 
-- [Yume: An Interactive World Generation Model](https://arxiv.org/abs/2507.17744), Xiangyu Mao, Shaofeng Lin, Zhenyu Li, Chunhao Li, **Wenshuo Peng**, Tianyu He, Jiangmiao Pang, Mingyu Chi, Yu Qiao, Kaipeng Zhang, *arXiv 2025*
+- [Yume: An Interactive World Generation Model](https://arxiv.org/abs/2507.17744), Xiangyu Mao, Shaoheng Lin, Zhen Li, Chuanhao Li, **Wenshuo Peng**, Tong He, Jiangmiao Pang, Mingming Chi, Yu Qiao, Kaipeng Zhang, *arXiv 2025*
 
 - [Multi-relational Pedestrian Trajectory Prediction in Complex Scenes](https://ieeexplore.ieee.org/document/10012858), **Wenshuo Peng**, Zhoujuan Cui, Yiping Duan, Xiaoming Tao, **IEEE VTC 2022**
 
