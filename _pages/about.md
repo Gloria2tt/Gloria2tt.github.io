@@ -23,7 +23,7 @@ I am currently working at **WeChat AI Foundation Model Center, Tencent**, focusi
 # 🔥 News
 - *2026.09*: &nbsp;🎉 One paper on long-horizon interactive world modeling accepted by **NeurIPS 2026**.
 - *2026.07*: &nbsp;🎉 Two co-authored papers accepted: WildWorld by **ECCV 2026** and GraphWalker by **COLM 2026**.
-- *2026.02*: &nbsp;🎉 New preprint: PyVision-RL on agentic vision models via RL is now on arXiv.
+- *2026.05*: &nbsp;🎉 One paper on agentic vision models via RL (PyVision-RL) accepted by **ICML 2026**.
 - *2026.02*: &nbsp;🎉 One paper on video generation evaluation (SVBench) accepted by **CVPR 2026**.
 - *2026.01*: &nbsp;🎉 One paper on video-guided audio generation (HarmoniDPO) accepted by **IJCV**.
 
@@ -31,6 +31,7 @@ I am currently working at **WeChat AI Foundation Model Center, Tencent**, focusi
 
 # 📄 Technical Report
 - [Sekai2: From World Exploration to Interactive World Modeling](https://arxiv.org/abs/2608.09449), Kang He, **Wenshuo Peng**, Zihui Gao, Jiaming Tan, Kaipeng Zhang, Yongtao Ge, *2026*
+- [Hidden Decoding at Scale: Latent Computation Scaling for Large Language Models](https://arxiv.org/abs/2607.08186), WeChat AI Team, Tencent, *2026*
 - [ERNIE 4.5 Technical Report](https://yiyan.baidu.com/blog/publication/ERNIE_Technical_Report.pdf), Baidu ERNIE Team, *2025*
 
 # 📝 Publications 
@@ -45,7 +46,7 @@ Kang He\*, **Wenshuo Peng**\*, Chuanhao Li, Zihui Gao, Xiaojie Xu, Zhengyuan Lin
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Recent</div><img src='images/500x300.png' alt="PyVision-RL" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/500x300.png' alt="PyVision-RL" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [PyVision-RL: Forging Open Agentic Vision Models via RL](https://arxiv.org/abs/2602.20739)
