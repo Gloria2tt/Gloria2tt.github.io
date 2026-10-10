@@ -30,6 +30,7 @@ I am currently working at **WeChat AI Foundation Model Center, Tencent**, focusi
 
 
 # 📄 Technical Report
+- [Sekai2: From World Exploration to Interactive World Modeling](https://arxiv.org/abs/2608.09449), Kang He, **Wenshuo Peng**, Zihui Gao, Jiaming Tan, Kaipeng Zhang, Yongtao Ge, *2026*
 - [ERNIE 4.5 Technical Report](https://yiyan.baidu.com/blog/publication/ERNIE_Technical_Report.pdf), Baidu ERNIE Team, *2025*
 
 # 📝 Publications 
