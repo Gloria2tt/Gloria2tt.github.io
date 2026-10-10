@@ -21,6 +21,8 @@ I am currently working at **WeChat AI Foundation Model Center, Tencent**, focusi
 
 
 # 🔥 News
+- *2026.09*: &nbsp;🎉 One paper on long-horizon interactive world modeling accepted by **NeurIPS 2026**.
+- *2026.07*: &nbsp;🎉 Two co-authored papers accepted: WildWorld by **ECCV 2026** and GraphWalker by **COLM 2026**.
 - *2026.02*: &nbsp;🎉 New preprint: PyVision-RL on agentic vision models via RL is now on arXiv.
 - *2026.02*: &nbsp;🎉 One paper on video generation evaluation (SVBench) accepted by **CVPR 2026**.
 - *2026.01*: &nbsp;🎉 One paper on video-guided audio generation (HarmoniDPO) accepted by **IJCV**.
@@ -31,6 +33,16 @@ I am currently working at **WeChat AI Foundation Model Center, Tencent**, focusi
 - [ERNIE 4.5 Technical Report](https://yiyan.baidu.com/blog/publication/ERNIE_Technical_Report.pdf), Baidu ERNIE Team, *2025*
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/500x300.png' alt="GameVerse" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+GameVerse: A Minute-Scale Gameplay Dataset for Long-Horizon Interactive World Modeling
+
+Kang He\*, **Wenshuo Peng**\*, Chuanhao Li, Zihui Gao, Xiaojie Xu, Zhengyuan Lin, Yuzhe Ding, Donghong Ji, Kaipeng Zhang, Yongtao Ge (\* equal contribution)
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Recent</div><img src='images/500x300.png' alt="PyVision-RL" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -81,6 +93,10 @@ Shitian Zhao, Shaoheng Lin, Ming Li, Haoquan Zhang, **Wenshuo Peng**, Kaipeng Zh
 
 </div>
 </div>
+
+- [WildWorld: A Large-Scale Dataset for Action-Conditioned World Modeling with Explicit State Annotations](https://arxiv.org/abs/2603.23497), Zhen Li, Zian Meng, Chuanhao Li, Shuwei Shi, **Wenshuo Peng**, Yuwei Wu, Bo Zheng, Yunde Jia, Kaipeng Zhang, **ECCV 2026**
+
+- [GraphWalker: Agentic Knowledge Graph Question Answering via Synthetic Trajectory Curriculum](https://arxiv.org/abs/2603.28533), Shuwen Xu, Yao Xu, Jiaxiang Liu, Chenhao Yuan, **Wenshuo Peng**, Jun Zhao, Kang Liu, **COLM 2026**
 
 - [Yume: An Interactive World Generation Model](https://arxiv.org/abs/2507.17744), Xiangyu Mao, Shaoheng Lin, Zhen Li, Chuanhao Li, **Wenshuo Peng**, Tong He, Jiangmiao Pang, Mingming Chi, Yu Qiao, Kaipeng Zhang, *arXiv 2025*
 
